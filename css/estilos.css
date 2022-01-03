@@ -3,3 +3,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     color: darkcyan;
 }
+
+#contenedor {
+    
+    text-align: center;
+    border: solid;
+    border-radius: 5px;
+    width: 70%;
+    margin: auto;
+    
+
+}
