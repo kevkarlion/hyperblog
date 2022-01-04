@@ -4,13 +4,31 @@ body {
     color: darkcyan;
 }
 
-#contenedor {
-    
-    text-align: center;
-    border: solid;
+#cabecera {
+    margin: auto;
+    border-style: solid;
     border-radius: 5px;
     width: 70%;
+    
+    background-color: crimson;
+    color: white;
+    border-color: crimson;
+
+
+
+
+}
+
+#contenedor {
+    background-color: white;
+    color: black;
+    text-align: center;
     margin: auto;
     
 
 }
+
+#letraCabecera {
+    size: 50px;
+}
+
