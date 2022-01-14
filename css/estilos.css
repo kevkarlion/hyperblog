@@ -34,6 +34,10 @@ body {
     
 
 }
+#footer {
+    background-color: darksalmon;
+    color: black;
+}
 
 #letraCabecera {
     size: 50px;
